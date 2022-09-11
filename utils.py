@@ -65,7 +65,7 @@ def plot_stack_bar(data:pd.DataFrame,x:str, xlabel:str = '', ylabel = '', save_p
     plt.show()
 
 # compute row percentages and print result as latex
-def print_latex_table(df:pd.DataFrame, save_path:str='latex_table.tex')-> None:
+def print_latex_table(df:pd.DataFrame, save_path:str='latex_table.tex', caption:str='')-> None:
     """ Print latex table
 
     Args:
@@ -80,4 +80,4 @@ def print_latex_table(df:pd.DataFrame, save_path:str='latex_table.tex')-> None:
     # print result as latex and float format as percentage
     print(df.to_latex(float_format=lambda x: "{0:.1f}%".format(x*100)))
     # save result as latex
-    df.to_latex(save_path, float_format=lambda x: "{0:.1f}%".format(x*100))
+    df.to_latex(save_path, float_format=lambda x: "{0:.1f}%".format(x*100), caption=caption)

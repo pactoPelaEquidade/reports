@@ -1,0 +1,54 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{ransom2001one}{book}{}
+      \name{author}{2}{}{%
+        {{hash=14e1acfd2bbcab7bdde09ac6db04d250}{%
+           family={Ransom},
+           familyi={R\bibinitperiod},
+           given={Roger\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b8832e0679845282eed7f4db83d09c3b}{%
+           family={Sutch},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b8584d46500817f9a8d68f0ed7ef451f}
+      \strng{fullhash}{b8584d46500817f9a8d68f0ed7ef451f}
+      \strng{bibnamehash}{b8584d46500817f9a8d68f0ed7ef451f}
+      \strng{authorbibnamehash}{b8584d46500817f9a8d68f0ed7ef451f}
+      \strng{authornamehash}{b8584d46500817f9a8d68f0ed7ef451f}
+      \strng{authorfullhash}{b8584d46500817f9a8d68f0ed7ef451f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{One kind of freedom: The economic consequences of emancipation}
+      \field{year}{2001}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
