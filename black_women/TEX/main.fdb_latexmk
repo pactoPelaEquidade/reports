@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1662929411 "main.bcf" "main.bbl" "main" 1662929968
-  "main.bcf" 1662929968 157024 32434c6ec277c154d6381863c54c8513 "pdflatex"
+["biber main"] 1662929411 "main.bcf" "main.bbl" "main" 1663001989
+  "main.bcf" 1663001989 157024 32434c6ec277c154d6381863c54c8513 "pdflatex"
   "references.bib" 1662929087 472 edc6c7b2d2cd53c2be01d98c3343a4c0 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1662929967 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1662929968
+["pdflatex"] 1663001988 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1663001989
   "/etc/texmf/web2c/texmf.cnf" 1662742362 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1662929609 9264 11575ad9f47a99205031f2f9e794a92c ""
+  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1663001988 9424 3c643db66d7131e0b19c4961f3e00bb5 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/education_main_groups.pdf" 1662929965 14237 756ec1d2a7434428d3cc5b49a6e7f0ca ""
   "/home/dell/Documents/pacto/reports/black_women/figures/ieer_black_women.pdf" 1662929959 13842 54dacee285e846c24923820db0cae458 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/supply_gap.pdf" 1662929963 14061 f98f71e4cb9720d477534234d1aea615 ""
@@ -28,6 +28,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1136768653 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm" 1136768653 1032 7fa31d93ecd4cbdfac02c7a1ebc6facc ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm" 1136768653 1148 56b0fdf7ca3f800294e968f64cfdcb87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm" 1136768653 2080 40a71f65088bdd047622ce295520749e ""
@@ -36,6 +37,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm" 1136768653 1316 b4037e9c09961a72f8476628774e1ec1 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb" 1248133631 24252 1e4e051947e12dfb50fee0b7f4e26e3a ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb" 1546638885 62231 6fa2851364e6117779162ea79cb96ef4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb" 1136849748 52665 661b1e6b26edb5f50dd491f8a701cb57 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb" 1136849748 50022 90249cba7e3e4e9845f80328d6f9bd13 ""
@@ -170,11 +172,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662928644 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662928675 2801430 56a36fe41d3f0384a7b957e82b4c816f ""
-  "main.aux" 1662929968 2895 8651d6b3594a8d51bae56e9f2baa0e05 "pdflatex"
+  "main.aux" 1663001989 2895 08c8888e1e93c993137c05966cf12215 "pdflatex"
   "main.bbl" 1662929412 1763 351fb0f519a1f44aaa291590dcff4af7 "biber main"
-  "main.out" 1662929968 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1662929968 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
-  "main.tex" 1662929609 9264 11575ad9f47a99205031f2f9e794a92c ""
+  "main.out" 1663001989 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1663001989 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
+  "main.tex" 1663001988 9424 3c643db66d7131e0b19c4961f3e00bb5 ""
   (generated)
   "main.aux"
   "main.bcf"

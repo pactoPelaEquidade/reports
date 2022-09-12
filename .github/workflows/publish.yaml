@@ -3,7 +3,7 @@ name: CD
 on: [push]
   
 jobs:
-  setup_gcloud:
+  upload_report:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
