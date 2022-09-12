@@ -14,10 +14,5 @@ jobs:
           credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
       - name: 'Set up Cloud SDK'
         uses: 'google-github-actions/setup-gcloud@v0'
-  upload_report:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
       - name: Upload report
         run: gsutil cp black_women/TEX/main.pdf gs://pacto-public-documents/report_black_women.pdf
