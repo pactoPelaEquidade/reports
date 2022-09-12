@@ -6,7 +6,10 @@ jobs:
   setup_gcloud:
     runs-on: ubuntu-latest
     steps:
-    - id: 'auth'
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Set up Gcloud credentials
+      id: 'auth'
       uses: 'google-github-actions/auth@v0'
       with:
         credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
