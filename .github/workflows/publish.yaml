@@ -18,4 +18,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Upload report
-      - run: gsutil cp black_women/TEX/main.pdf gs://pacto-public-documents/report_black_women.pdf
+        run: gsutil cp black_women/TEX/main.pdf gs://pacto-public-documents/report_black_women.pdf
