@@ -48,6 +48,30 @@
       \field{title}{One kind of freedom: The economic consequences of emancipation}
       \field{year}{2001}
     \endentry
+    \entry{soares2000perfil}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2a8554608aa28f3faa653ef2001ff6e5}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Sergei\bibnamedelimb Suarez\bibnamedelima Dillon},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto de Pesquisa Econômica Aplicada (ipea)}%
+      }
+      \strng{namehash}{2a8554608aa28f3faa653ef2001ff6e5}
+      \strng{fullhash}{2a8554608aa28f3faa653ef2001ff6e5}
+      \strng{bibnamehash}{2a8554608aa28f3faa653ef2001ff6e5}
+      \strng{authorbibnamehash}{2a8554608aa28f3faa653ef2001ff6e5}
+      \strng{authornamehash}{2a8554608aa28f3faa653ef2001ff6e5}
+      \strng{authorfullhash}{2a8554608aa28f3faa653ef2001ff6e5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perfil da discriminação no mercado de trabalho: homens negros, mulheres brancas e mulheres negras}
+      \field{year}{2000}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

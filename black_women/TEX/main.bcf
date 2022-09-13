@@ -3483,8 +3483,10 @@
     <bcf:datasource type="file" datatype="bibtex">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">ransom2001one</bcf:citekey>
+    <bcf:citekey order="1">soares2000perfil</bcf:citekey>
     <bcf:citekey order="2">ransom2001one</bcf:citekey>
+    <bcf:citekey order="3">soares2000perfil</bcf:citekey>
+    <bcf:citekey order="4">ransom2001one</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
@@ -3521,4 +3523,13 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="cms/global//global/global"
+                type="entry"
+                sortingtemplatename="cms"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>
