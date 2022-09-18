@@ -1,18 +1,19 @@
 # Fdb version 3
-["biber main"] 1663075929 "main.bcf" "main.bbl" "main" 1663076435
-  "main.bcf" 1663076434 157490 c797d9f66cc57284420022e991af081f "pdflatex"
-  "references.bib" 1663075178 744 14e31f17de6d8123c3cbc3f37c463729 ""
+["biber main"] 1663539298 "main.bcf" "main.bbl" "main" 1663539346
+  "main.bcf" 1663539346 157490 c797d9f66cc57284420022e991af081f "pdflatex"
+  "references.bib" 1663539298 3149 5d3d7ab3ec8c88a6922536fad231070b ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1663076433 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1663076435
+["pdflatex"] 1663539345 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1663539346
   "/etc/texmf/web2c/texmf.cnf" 1662742362 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1663076431 11993 1858fcffebbcf7fcf7dcfcffcdc5c872 ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/education_main_groups.pdf" 1662929965 14237 756ec1d2a7434428d3cc5b49a6e7f0ca ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/ieer_black_women.pdf" 1662929959 13842 54dacee285e846c24923820db0cae458 ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/supply_gap.pdf" 1662929963 14061 f98f71e4cb9720d477534234d1aea615 ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/wage_gap.pdf" 1662929961 13442 258b21837b30286889550cc78b0dbd7d ""
-  "/home/dell/Documents/pacto/reports/black_women/tables/education.tex" 1662929965 952 0a09f4ff40cbf1740656943dcef0c8be ""
+  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1663539344 18599 b59c0a0431af6b3e91698a64a541a824 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/education_main_groups.pdf" 1663521514 14537 dcd7fd33bc9807ffaf778fbbec2daa74 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/ieer_black_women.pdf" 1663521506 13842 b6edc64b13a88dccb99b793c81bb825c ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/supply_gap.pdf" 1663521510 14061 a0de10234a98c11d33994dbcb4f9812b ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/wage_gap.pdf" 1663521508 13548 ae2901fcf0d93d14a76702b5a3dfde69 ""
+  "/home/dell/Documents/pacto/reports/black_women/tables/education_men.tex" 1663538209 950 393ce18df5a1e31c777341dd8cc71579 ""
+  "/home/dell/Documents/pacto/reports/black_women/tables/education_women.tex" 1663521512 952 0a09f4ff40cbf1740656943dcef0c8be ""
   "/home/dell/Documents/pacto/reports/black_women/tables/tab_ieer_2020.tex" 1662929338 622 0a81af91ab81fa7a405a5fa634419c3d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -178,11 +179,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662928644 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662928675 2801430 56a36fe41d3f0384a7b957e82b4c816f ""
-  "main.aux" 1663076434 3492 83b835405930827643112007e3d4ab95 "pdflatex"
-  "main.bbl" 1663075930 2906 aae3f44ad12a678ebcb9915b01dfcc29 "biber main"
-  "main.out" 1663076434 311 53fff5dfcfaf03b9a17676b40c3965a0 "pdflatex"
-  "main.run.xml" 1663076434 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
-  "main.tex" 1663076431 11993 1858fcffebbcf7fcf7dcfcffcdc5c872 ""
+  "main.aux" 1663539346 4228 55854a4564c18e30b4bed3145683da7e "pdflatex"
+  "main.bbl" 1663539299 2906 aae3f44ad12a678ebcb9915b01dfcc29 "biber main"
+  "main.out" 1663539346 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
+  "main.run.xml" 1663539346 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
+  "main.tex" 1663539344 18599 b59c0a0431af6b3e91698a64a541a824 ""
   (generated)
   "main.aux"
   "main.bcf"

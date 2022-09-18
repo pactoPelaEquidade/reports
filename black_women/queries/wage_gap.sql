@@ -20,21 +20,22 @@ FROM (
       WHEN raca_cor='8' THEN 'Negro'
       ELSE 'other'
     END AS cor,
-    valor_remuneracao_media
+    valor_remuneracao_outubro
     FROM `basedosdados.br_me_rais.microdados_vinculos`
     WHERE ano>=2010
     AND raca_cor IN ('1', '2', '4', '8')
     AND sexo IN ('1', '2')
+    AND faixa_horas_contratadas IN ('5','6')
   )
   SELECT *
   FROM (
     SELECT 
     ano, 
     CONCAT(sexo, '_',cor) AS extrato,
-    valor_remuneracao_media,
+    valor_remuneracao_outubro,
     FROM microdados
     ORDER BY ano, extrato)
-  PIVOT (AVG(valor_remuneracao_media) FOR extrato IN ("Homem_Negro", "Mulher_Branca", "Mulher_Indigena", "Homem_Indigena", "Mulher_Negro", "Homem_Branca"))
+  PIVOT (AVG(valor_remuneracao_outubro) FOR extrato IN ("Homem_Negro", "Mulher_Branca", "Mulher_Indigena", "Homem_Indigena", "Mulher_Negro", "Homem_Branca"))
   ORDER BY ano
 )
 LIMIT 11
