@@ -81,3 +81,37 @@ def print_latex_table(df:pd.DataFrame, save_path:str='latex_table.tex', caption:
     print(df.to_latex(float_format=lambda x: "{0:.1f}%".format(x*100)))
     # save result as latex
     df.to_latex(save_path, float_format=lambda x: "{0:.1f}%".format(x*100), caption=caption)
+
+
+# plot percentile distribution by group
+def plot_percentile_distribution(data:pd.DataFrame, group:str, save_path:str='percentile_distribution.pdf')-> None:
+    """ Plot percentile distribution
+
+    Args:
+        data (pd.DataFrame): Dataframe with time series data
+        group (str): Group to plot
+        save_path (str): Path to save plot
+
+    Returns:
+        None
+    """
+    fig, ax = plt.subplots(figsize=(8,6))
+
+    # plot percentile distribution by group
+    sns.boxplot(x=group, y='percentile', data=data, ax=ax)
+
+    # add grid
+    ax.grid(True)
+    # show xtick labels only from 10 to 90
+    ax.set_xticklabels(ax.get_xticklabels(), rotation=45, horizontalalignment='right')
+    ax.set_xticks([0,1,2,3,4,5,6,7,8,9])
+    ax.set_xticklabels([10,20,30,40,50,60,70,80,90])
+    
+    
+
+    ax.spines.right.set_visible(False)
+    ax.spines.top.set_visible(False)
+    ax.set_xlabel('')
+    ax.set_ylabel('Percentile')
+    fig.savefig(save_path, bbox_inches='tight')
+    plt.show()

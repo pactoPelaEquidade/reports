@@ -1,0 +1,65 @@
+\par Soares 2000:
+\begin{enumerate}
+    \item Homens negros, mulheres brancas e mulheres negras têm salários médios inferiores a homens brancos.
+    \item Considerando os 4 sub-grupos demográficos, os salários médios das mulheres negras são os mais baixos, seguidos pelos salários de homens negros, mulheres brancas e homens brancos.
+    \item Entre 1987 e 2000, o \textit{gap} salarial entre mulheres negras e homens brancos diminuiu à taxa de 0,7\% ao ano. Enquanto para mulheres brancas essa redução foi de aproximadamente 1\% ao ano.
+    \item Entre 1987 e 2000, o \textit{gap} salarial entre homens negros e homens brancos permaneceu constante.
+    \item O desconto salarial provocado pela cor da pele cresce com o nível do salário de negros (discriminação elitista)
+\end{enumerate}
+
+\par Campante (2004):
+
+\begin{enumerate}
+    \item Problema racial no mercado de trabalho é maior no Sudeste que no Nordeste
+    \item Quando considera-se a desigualdade de capital humano entre brancos e negros, deve-se incluir o aspecto intergeracional. Quando controlado para educação da mãe, a parcela do diferencial salarial atribuído à discriminação cai.
+    \item Diferença salarial entre brancos e negros é menor no setor público
+\end{enumerate}
+
+\par Jean-Louis (2004):
+
+\begin{enumerate}
+    \item Não existe grande diferença de emprego e wage gap entre pretos e pardos quando cada um desses grupos é comparado com brancos
+    \item Mas gap salarial em cada caso é explicado por diferentes fatores: pardos, variáveis observadas; pretos, discriminação
+\end{enumerate}
+
+\par Reis (2005):
+
+\begin{enumerate}
+    \item Diferença de anos de escolaridade entre brancos e negros se manteve praticamente constante entre 1987 e 2002
+    \item Diferenciais salariais entre brancos e negros é muito menor para gerações mais jovens.
+\end{enumerate}
+
+\par Gerard (2018):
+
+\begin{enumerate}
+    \item Variação salarial entre-firmas explica cerca de 20\% da desigualdade salarial no Brasil.
+    \item Workplace premium é maior para brancos e explica cerca de 1/4 da diferença salarial entre brancos e negros
+    \item A parcela da diferença salarial explicada por workplace premium que deve-se à dis\-cri\-mi\-na\-ção de contratação explica 6-8\% do wage gap total.
+    \item Menor premio salarial intra-firma explica cerca de 6\% do gap salarial
+\end{enumerate}
+
+
+\par Miller (2021):
+
+\begin{enumerate}
+    \item As empresas com fundadores brancos são mais propensos a contratar funcionários brancos do que empresas comparáveis com fundadores não brancos. 
+    \item Estas diferenças desaparecem à medida que o número acumulado de contratações das empresas aumenta. 
+    \item As empresas são menos propensas a demitir contratações recentes da mesma raça que o fundador da empresa, indicando que essas contratações são menos prováveis ser uma partida ruim ex-post. 
+    \item As diferenças raciais nas taxas de demissão também estão diminuindo em um número acumulado de contratações da empresa. No entanto, poucas empresas contratam funcionários suficientes para alcançar a convergência sua composição racial de contratações ou taxas de demissão. 
+    \item Estudo explica três fatos estilizados sobre diferenças raciais nos resultados do mercado de trabalho: trabalhadores não brancos são mais propensos a serem demitidos por seus empregadores, têm menos senhoridade, e se destinam a empregadores maiores do que os trabalhadores brancos.
+\end{enumerate}
+
+\par Marcondes (2013)
+
+\begin{enumerate}
+    \item Crescimento da matrícula de mulheres no ensino superior é concentrado em IES privadas e cursos de menor prestígio. (Cap. 1)
+    \item Se as mulheres negras, em 1995, tinham uma taxa de escolarização de 14,9\%, esta mais do que triplica na série histórica, chegando a 49,8\%, em 2009, aproximando-se mais dos homens brancos, que, neste ano, contaram com uma taxa de 55,5\%. Por sua vez, distanciaram-se dos homens negros, que computaram uma taxa de 37,7\% no mesmo momento. Ademais, as mulheres negras, apesar destas melhoras em termos de aquisição de anos de estudos, ficam bem aquém das mulheres brancas, o que pode ser explicado, em parte, pela grande distância que tinham no ponto de partida na série considerada. (Cap. 2)
+    \item Na população total, a proporção de mulheres brancas com ensino superior era 4 vezes maior do que de mulheres negras em 1995. Em 2009, essa razão passou a ser de 2.
+\end{enumerate}
+
+
+\par Carvalho (2004)
+
+\begin{enumerate}
+    \item Homens negros tem consistentemente maior distorção idade-série
+\end{enumerate}

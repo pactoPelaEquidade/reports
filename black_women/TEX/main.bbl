@@ -19,6 +19,44 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
+    \entry{campante2004desigualdade}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4c891860df9b81b588784352ed612ca0}{%
+           family={Campante},
+           familyi={C\bibinitperiod},
+           given={Filipe\bibnamedelima R},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=d917ef24f879fd846911600c48fd5a03}{%
+           family={Crespo},
+           familyi={C\bibinitperiod},
+           given={Anna\bibnamedelima RV},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=ad8533bf61caf92de0b3671f8cc70535}{%
+           family={Leite},
+           familyi={L\bibinitperiod},
+           given={Phillippe\bibnamedelima GPG},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SciELO Brasil}%
+      }
+      \strng{namehash}{7e59017d41a04e07894eb10bdf1ddf38}
+      \strng{fullhash}{7e59017d41a04e07894eb10bdf1ddf38}
+      \strng{bibnamehash}{7e59017d41a04e07894eb10bdf1ddf38}
+      \strng{authorbibnamehash}{7e59017d41a04e07894eb10bdf1ddf38}
+      \strng{authornamehash}{7e59017d41a04e07894eb10bdf1ddf38}
+      \strng{authorfullhash}{7e59017d41a04e07894eb10bdf1ddf38}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Brasileira de economia}
+      \field{title}{Desigualdade salarial entre raças no mercado de trabalho urbano brasileiro: aspectos regionais}
+      \field{volume}{58}
+      \field{year}{2004}
+      \field{pages}{185\bibrangedash 210}
+      \range{pages}{26}
+    \endentry
     \entry{ransom2001one}{book}{}
       \name{author}{2}{}{%
         {{hash=14e1acfd2bbcab7bdde09ac6db04d250}{%
