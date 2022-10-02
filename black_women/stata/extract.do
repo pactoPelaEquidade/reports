@@ -50,8 +50,35 @@ restore
 // export delimited /home/dell/Documents/pacto/reports/black_women/data/rendimento_decis.csv, replace
 // restore
 
+//DISTRIBUTION
 sum rendimento [aweigh=v1028] if v2010=="Branca" & v2007==1, detail
 sum rendimento [aweigh=v1028] if v2010=="Branca" & v2007==2, detail
 sum rendimento [aweigh=v1028] if v2010=="Negro" & v2007==1, detail
 sum rendimento [aweigh=v1028] if v2010=="Negro" & v2007==2, detail
+
+//PUBLIC VS PRIVATE SECTOR
+//private
+gen tipo_ocupacao = 1 if vd4009==1 | vd4009==2
+//public
+replace tipo_ocupacao = 2 if vd4009==5 | vd4009==6 | vd4009==7
+//domestico
+replace tipo_ocupacao = 3 if vd4009==3 | vd4009==4
+//WAGES
+preserve
+collapse (mean) wage_mean=rendimento [iw=v1028], by(v2010 v2007 tipo_ocupacao)
+export delimited /home/dell/Documents/pacto/reports/black_women/data/rendimento_setor.csv, replace
+restore
+//PARTICIPATION
+preserve
+table v2010 v2007 tipo_ocupacao [iw=v1028], replace
+export delimited /home/dell/Documents/pacto/reports/black_women/data/participacao_setor.csv, replace
+restore
+
+//EDUCATION
+// preserve
+table v2010 v2007 vd3005 [iw=v1028], replace
+export delimited /home/dell/Documents/pacto/reports/black_women/data/anos_escolaridade.csv, replace
+// restore
+
+
 

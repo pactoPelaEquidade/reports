@@ -3483,16 +3483,17 @@
     <bcf:datasource type="file" datatype="bibtex">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">soares2000perfil</bcf:citekey>
-    <bcf:citekey order="1">campante2004desigualdade</bcf:citekey>
+    <bcf:citekey order="1">kaldor1961capital</bcf:citekey>
+    <bcf:citekey order="2">soares2000perfil</bcf:citekey>
     <bcf:citekey order="2">campante2004desigualdade</bcf:citekey>
-    <bcf:citekey order="3">soares2000perfil</bcf:citekey>
     <bcf:citekey order="3">campante2004desigualdade</bcf:citekey>
     <bcf:citekey order="4">soares2000perfil</bcf:citekey>
+    <bcf:citekey order="4">campante2004desigualdade</bcf:citekey>
     <bcf:citekey order="5">ransom2001one</bcf:citekey>
-    <bcf:citekey order="6">soares2000perfil</bcf:citekey>
-    <bcf:citekey order="7">campante2004desigualdade</bcf:citekey>
-    <bcf:citekey order="8">ransom2001one</bcf:citekey>
+    <bcf:citekey order="6">kaldor1961capital</bcf:citekey>
+    <bcf:citekey order="7">soares2000perfil</bcf:citekey>
+    <bcf:citekey order="8">campante2004desigualdade</bcf:citekey>
+    <bcf:citekey order="9">ransom2001one</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">

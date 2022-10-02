@@ -57,6 +57,33 @@
       \field{pages}{185\bibrangedash 210}
       \range{pages}{26}
     \endentry
+    \entry{kaldor1961capital}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=3a3bf65c45bab0af4cf95bcd04773679}{%
+           family={Kaldor},
+           familyi={K\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{fullhash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{bibnamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authorbibnamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authornamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authorfullhash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The theory of capital}
+      \field{title}{Capital accumulation and economic growth}
+      \field{year}{1961}
+      \field{pages}{177\bibrangedash 222}
+      \range{pages}{46}
+    \endentry
     \entry{ransom2001one}{book}{}
       \name{author}{2}{}{%
         {{hash=14e1acfd2bbcab7bdde09ac6db04d250}{%

@@ -1,20 +1,22 @@
 # Fdb version 3
-["biber main"] 1664669796 "main.bcf" "main.bbl" "main" 1664669904
-  "main.bcf" 1664669904 157870 6fd47edc4c2ad825d2a4cea329793b7c "pdflatex"
-  "references.bib" 1663539298 3149 5d3d7ab3ec8c88a6922536fad231070b ""
+["biber main"] 1664719502 "main.bcf" "main.bbl" "main" 1664734262
+  "main.bcf" 1664734262 157930 bddece0e2b28e37a6e35ee0f5b124884 "pdflatex"
+  "references.bib" 1664716333 3362 539d8f426c2fb1db2c95fc1c44a4b760 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1664669903 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1664669904
+["pdflatex"] 1664734260 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1664734262
   "/etc/texmf/web2c/texmf.cnf" 1662742362 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1664669794 17633 cec428dc65761e3e0f8edacf4205c7fa ""
+  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1664734234 21280 e67ebca31a28c59597c360a50815be84 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/education_main_groups.pdf" 1663521514 14537 dcd7fd33bc9807ffaf778fbbec2daa74 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/ieer_black_women.pdf" 1663521506 13842 b6edc64b13a88dccb99b793c81bb825c ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/participation.pdf" 1664734260 16242 8a1ae2415047289d494e9c8bc674d86c ""
   "/home/dell/Documents/pacto/reports/black_women/figures/supply_gap.pdf" 1663521510 14061 a0de10234a98c11d33994dbcb4f9812b ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_group.pdf" 1664667041 14487 0c528a3dd27a553a0115ca83090882eb ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region.pdf" 1664667041 14558 db5e69f2615809730fcf2011a92f2e34 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_group.pdf" 1664734259 14491 c38443b6ddf61d9a28b7ac7b437b1200 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region.pdf" 1664734259 14562 a0af71fa309c693692268e0ead7ab5cf ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region_women.pdf" 1664734259 14100 a0f33b166aefae229e4df2069e0da0e6 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/wage_gap.pdf" 1663521508 13548 ae2901fcf0d93d14a76702b5a3dfde69 ""
-  "/home/dell/Documents/pacto/reports/black_women/tables/decis_rendimentos.tex" 1664669901 638 165df582de93367404738159332dbfe4 ""
+  "/home/dell/Documents/pacto/reports/black_women/tables/decis_rendimentos.tex" 1664718859 1266 90ec3d0b08005a3666ac6186dc568c61 ""
   "/home/dell/Documents/pacto/reports/black_women/tables/education_men.tex" 1664669727 956 e380f5ee8dd1ec7f57fc6cf268121298 ""
   "/home/dell/Documents/pacto/reports/black_women/tables/education_women.tex" 1664669719 958 8d0762bc4ea4d3d8559fc42633a2e901 ""
   "/home/dell/Documents/pacto/reports/black_women/tables/tab_ieer_2020.tex" 1662929338 622 0a81af91ab81fa7a405a5fa634419c3d ""
@@ -182,11 +184,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662928644 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662928675 2801430 56a36fe41d3f0384a7b957e82b4c816f ""
-  "main.aux" 1664669904 5715 7a005406bb16cc80864ec116ff6ab51c "pdflatex"
-  "main.bbl" 1664669797 4574 541e462e14b20a58a19a8c60d99c8e66 "biber main"
-  "main.out" 1664669904 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
-  "main.run.xml" 1664669904 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
-  "main.tex" 1664669794 17633 cec428dc65761e3e0f8edacf4205c7fa ""
+  "main.aux" 1664734262 6648 c80356cc8eb9a0bbc47a4a801defcc4b "pdflatex"
+  "main.bbl" 1664719503 5639 f32ad2d0e15e30568aea4b2ed48362a5 "biber main"
+  "main.out" 1664734262 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
+  "main.run.xml" 1664734262 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
+  "main.tex" 1664734234 21280 e67ebca31a28c59597c360a50815be84 ""
   (generated)
   "main.aux"
   "main.bcf"
