@@ -81,4 +81,6 @@ export delimited /home/dell/Documents/pacto/reports/black_women/data/anos_escola
 // restore
 
 
+tab v2010 v2007 [iw=v1028
+
 
