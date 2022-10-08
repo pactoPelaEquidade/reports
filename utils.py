@@ -115,3 +115,33 @@ def plot_percentile_distribution(data:pd.DataFrame, group:str, save_path:str='pe
     ax.set_ylabel('Percentile')
     fig.savefig(save_path, bbox_inches='tight')
     plt.show()
+
+
+fig, ax = plt.subplots(figsize=(8,6))
+ax.barh(df['vd3005'], df['Homem Branco'], color=colors[1])
+ax.barh(df['vd3005'], df['Mulher Branca'],color=colors[0])
+
+# add format percentage to bars
+for i, v in enumerate(df['Homem Branco']):
+    if i in [9,12,16]:
+        ax.text(v+1, i-0.15, str(round(abs(v),1))+'%', color='gray', fontweight='bold')
+        
+for i, v in enumerate(df['Mulher Branca']):
+    if i in [9,12,16]:
+        ax.text(v-6, i - .15, str(round(v,1))+'%', color='gray', fontweight='bold')
+
+# make all yticks-labels integer
+ax.set_yticks(range(0, len(df['vd3005'])))
+# remove negative sign from xticks-labels using ticker formatter
+ax.xaxis.set_major_formatter(ticker.FuncFormatter(lambda x, pos: '{:,.0f}'.format(abs(x))))
+
+
+ax.spines.right.set_visible(False)
+ax.spines.top.set_visible(False)
+fig.tight_layout()
+# add legend at bottom right
+ax.legend(loc='lower right', bbox_to_anchor=(1, 0.5))
+
+fig.savefig('/home/dell/Documents/pacto/reports/black_women/figures/schooling_white.pdf', bbox_inches='tight')
+
+plt.show()

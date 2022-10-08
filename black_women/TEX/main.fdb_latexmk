@@ -1,20 +1,23 @@
 # Fdb version 3
-["biber main"] 1664719502 "main.bcf" "main.bbl" "main" 1664734262
-  "main.bcf" 1664734262 157930 bddece0e2b28e37a6e35ee0f5b124884 "pdflatex"
+["biber main"] 1665259522 "main.bcf" "main.bbl" "main" 1665260162
+  "main.bcf" 1665260162 157930 bddece0e2b28e37a6e35ee0f5b124884 "pdflatex"
   "references.bib" 1664716333 3362 539d8f426c2fb1db2c95fc1c44a4b760 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1664734260 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1664734262
+["pdflatex"] 1665260161 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1665260162
   "/etc/texmf/web2c/texmf.cnf" 1662742362 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1664734234 21280 e67ebca31a28c59597c360a50815be84 ""
+  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1665259521 24452 6184ed01e394286ad2a7c141d74530cd ""
   "/home/dell/Documents/pacto/reports/black_women/figures/education_main_groups.pdf" 1663521514 14537 dcd7fd33bc9807ffaf778fbbec2daa74 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/emprego.pdf" 1665254572 12805 a68955779ea0754bdc393f59046a1e2b ""
   "/home/dell/Documents/pacto/reports/black_women/figures/ieer_black_women.pdf" 1663521506 13842 b6edc64b13a88dccb99b793c81bb825c ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/participation.pdf" 1664734260 16242 8a1ae2415047289d494e9c8bc674d86c ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/participation.pdf" 1665250340 16242 756a714b0ca9ee7473f99ba6369b1d17 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/schooling_black.pdf" 1665260144 16649 fa35bc2be042150c37a23adc99e4185e ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/schooling_white.pdf" 1665260160 17024 bf2c99df1f443821261ee4f473091b9c ""
   "/home/dell/Documents/pacto/reports/black_women/figures/supply_gap.pdf" 1663521510 14061 a0de10234a98c11d33994dbcb4f9812b ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_group.pdf" 1664734259 14491 c38443b6ddf61d9a28b7ac7b437b1200 ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region.pdf" 1664734259 14562 a0af71fa309c693692268e0ead7ab5cf ""
-  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region_women.pdf" 1664734259 14100 a0f33b166aefae229e4df2069e0da0e6 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_group.pdf" 1665250339 14491 3d3ad3a2b4c8a5c38a7fdd1428a3e090 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region.pdf" 1665250339 14562 6eed68c68354fac3bed26a068574c819 ""
+  "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region_women.pdf" 1665250339 14100 fb5d71bbfae581d56d3f61c3bbb495b7 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/wage_gap.pdf" 1663521508 13548 ae2901fcf0d93d14a76702b5a3dfde69 ""
   "/home/dell/Documents/pacto/reports/black_women/tables/decis_rendimentos.tex" 1664718859 1266 90ec3d0b08005a3666ac6186dc568c61 ""
   "/home/dell/Documents/pacto/reports/black_women/tables/education_men.tex" 1664669727 956 e380f5ee8dd1ec7f57fc6cf268121298 ""
@@ -184,11 +187,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662928644 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662928675 2801430 56a36fe41d3f0384a7b957e82b4c816f ""
-  "main.aux" 1664734262 6648 c80356cc8eb9a0bbc47a4a801defcc4b "pdflatex"
-  "main.bbl" 1664719503 5639 f32ad2d0e15e30568aea4b2ed48362a5 "biber main"
-  "main.out" 1664734262 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
-  "main.run.xml" 1664734262 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
-  "main.tex" 1664734234 21280 e67ebca31a28c59597c360a50815be84 ""
+  "main.aux" 1665260162 7625 1d7339694c8b356e41afa4a1c5d72cbb "pdflatex"
+  "main.bbl" 1665259523 5639 f32ad2d0e15e30568aea4b2ed48362a5 "biber main"
+  "main.out" 1665260162 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
+  "main.run.xml" 1665260162 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
+  "main.tex" 1665259521 24452 6184ed01e394286ad2a7c141d74530cd ""
   (generated)
   "main.aux"
   "main.bcf"
