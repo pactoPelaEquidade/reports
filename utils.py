@@ -2,6 +2,19 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+from pylab import *
+
+cmap = cm.get_cmap('Pastel1', 5)    # PiYG
+colors=[]
+for i in range(cmap.N):
+    rgba = cmap(i)
+    # rgb2hex accepts rgb or rgba
+    colors.append(matplotlib.colors.rgb2hex(rgba))
+
+# reverse colors list
+# colors = colors[::-1]
+colors.pop(4)
+
 def plot_time_series(data:pd.DataFrame, xlabel:str = '', ylabel = '', save_path:str='time_series.pdf')-> None:
     """ Plot time series data
 
@@ -19,11 +32,10 @@ def plot_time_series(data:pd.DataFrame, xlabel:str = '', ylabel = '', save_path:
 
     cols = data.columns
 
-    for col in cols:
-        ax.plot(data[col], label=col)
+    for i, col in enumerate(cols):
+        ax.plot(data[col], label=col, color=colors[i], linewidth=2)
 
-    # add grid
-    ax.grid(True)
+
 
     ax.spines.right.set_visible(False)
     ax.spines.top.set_visible(False)
@@ -52,8 +64,7 @@ def plot_stack_bar(data:pd.DataFrame,x:str, xlabel:str = '', ylabel = '', save_p
     cols = data.columns
     data.plot.bar(x=x, stacked=True, ax=ax)
     
-    # add grid
-    ax.grid(True)
+
 
     ax.spines.right.set_visible(False)
     ax.spines.top.set_visible(False)
@@ -100,8 +111,7 @@ def plot_percentile_distribution(data:pd.DataFrame, group:str, save_path:str='pe
     # plot percentile distribution by group
     sns.boxplot(x=group, y='percentile', data=data, ax=ax)
 
-    # add grid
-    ax.grid(True)
+
     # show xtick labels only from 10 to 90
     ax.set_xticklabels(ax.get_xticklabels(), rotation=45, horizontalalignment='right')
     ax.set_xticks([0,1,2,3,4,5,6,7,8,9])
@@ -115,33 +125,3 @@ def plot_percentile_distribution(data:pd.DataFrame, group:str, save_path:str='pe
     ax.set_ylabel('Percentile')
     fig.savefig(save_path, bbox_inches='tight')
     plt.show()
-
-
-fig, ax = plt.subplots(figsize=(8,6))
-ax.barh(df['vd3005'], df['Homem Branco'], color=colors[1])
-ax.barh(df['vd3005'], df['Mulher Branca'],color=colors[0])
-
-# add format percentage to bars
-for i, v in enumerate(df['Homem Branco']):
-    if i in [9,12,16]:
-        ax.text(v+1, i-0.15, str(round(abs(v),1))+'%', color='gray', fontweight='bold')
-        
-for i, v in enumerate(df['Mulher Branca']):
-    if i in [9,12,16]:
-        ax.text(v-6, i - .15, str(round(v,1))+'%', color='gray', fontweight='bold')
-
-# make all yticks-labels integer
-ax.set_yticks(range(0, len(df['vd3005'])))
-# remove negative sign from xticks-labels using ticker formatter
-ax.xaxis.set_major_formatter(ticker.FuncFormatter(lambda x, pos: '{:,.0f}'.format(abs(x))))
-
-
-ax.spines.right.set_visible(False)
-ax.spines.top.set_visible(False)
-fig.tight_layout()
-# add legend at bottom right
-ax.legend(loc='lower right', bbox_to_anchor=(1, 0.5))
-
-fig.savefig('/home/dell/Documents/pacto/reports/black_women/figures/schooling_white.pdf', bbox_inches='tight')
-
-plt.show()

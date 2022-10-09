@@ -57,6 +57,33 @@
       \field{pages}{185\bibrangedash 210}
       \range{pages}{26}
     \endentry
+    \entry{carvalho2004fracasso}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0fec517c9a0a6d55e72a4f9ef9e0a733}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Marília\bibnamedelimb Pinto\bibnamedelima de},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SciELO Brasil}%
+      }
+      \strng{namehash}{0fec517c9a0a6d55e72a4f9ef9e0a733}
+      \strng{fullhash}{0fec517c9a0a6d55e72a4f9ef9e0a733}
+      \strng{bibnamehash}{0fec517c9a0a6d55e72a4f9ef9e0a733}
+      \strng{authorbibnamehash}{0fec517c9a0a6d55e72a4f9ef9e0a733}
+      \strng{authornamehash}{0fec517c9a0a6d55e72a4f9ef9e0a733}
+      \strng{authorfullhash}{0fec517c9a0a6d55e72a4f9ef9e0a733}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{cadernos pagu}
+      \field{title}{O fracasso escolar de meninos e meninas: articulações entre gênero e cor/raça}
+      \field{year}{2004}
+      \field{pages}{247\bibrangedash 290}
+      \range{pages}{44}
+    \endentry
     \entry{kaldor1961capital}{incollection}{}
       \name{author}{1}{}{%
         {{hash=3a3bf65c45bab0af4cf95bcd04773679}{%
@@ -83,6 +110,77 @@
       \field{year}{1961}
       \field{pages}{177\bibrangedash 222}
       \range{pages}{46}
+    \endentry
+    \entry{marcondes2013dossie}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=97ac196a5114d5a2eae7fd50ca706f0f}{%
+           family={Marcondes},
+           familyi={M\bibinitperiod},
+           given={Mariana\bibnamedelimb Mazzini\bibnamedelima Organizadora},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=e6cd8624568c3ed802a0b8fbe31613f7}{%
+           family={Pinheiro},
+           familyi={P\bibinitperiod},
+           given={Luana\bibnamedelimb Simões\bibnamedelima Organizadora},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=9b88d5f4487321d2ff069dfa98e5173f}{%
+           family={Queiroz},
+           familyi={Q\bibinitperiod},
+           given={Cristina\bibnamedelima Organizadora},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=b370c6b00ba8487bc9a8ce309c75cfd7}{%
+           family={Querino},
+           familyi={Q\bibinitperiod},
+           given={Ana\bibnamedelimb Carolina\bibnamedelima Organizadora},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=35d5e05b485a46551617b8cd2aa98e02}{%
+           family={Valverde},
+           familyi={V\bibinitperiod},
+           given={Danielle\bibnamedelima Organizadora},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=1cfa22816976f5c2f11df6470d453ab8}{%
+           family={França},
+           familyi={F\bibinitperiod},
+           given={Danilo},
+           giveni={D\bibinitperiod}}}%
+        {{hash=edc5ed0bdfe703c0ae7fc98f1e829c97}{%
+           family={Sotero},
+           familyi={S\bibinitperiod},
+           given={Edilza\bibnamedelima Correia},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d7067467482f1e6da37fc5516283d167}{%
+           family={Rios},
+           familyi={R\bibinitperiod},
+           given={Flavia},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c85ff4603b9a54e594fc2bf88a6adcdf}{%
+           family={Romio},
+           familyi={R\bibinitperiod},
+           given={Jackeline\bibnamedelimb Aparecida\bibnamedelima Ferreira},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=e514af9c8ba3b94942612e773d4170f4}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Layla\bibnamedelimb Daniele\bibnamedelimb Pedreira\bibnamedelima de},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto de Pesquisa Econômica Aplicada (Ipea)}%
+      }
+      \strng{namehash}{52a49664125c77acf2f904e05783127a}
+      \strng{fullhash}{6d0a441d9fc9cd1f2ea8a57bc876bdbd}
+      \strng{bibnamehash}{6d0a441d9fc9cd1f2ea8a57bc876bdbd}
+      \strng{authorbibnamehash}{6d0a441d9fc9cd1f2ea8a57bc876bdbd}
+      \strng{authornamehash}{52a49664125c77acf2f904e05783127a}
+      \strng{authorfullhash}{6d0a441d9fc9cd1f2ea8a57bc876bdbd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dossiê mulheres negras: retrato das condições de vida das mulheres negras no Brasil}
+      \field{year}{2013}
     \endentry
     \entry{ransom2001one}{book}{}
       \name{author}{2}{}{%
