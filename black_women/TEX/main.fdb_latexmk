@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1665953535 "main.bcf" "main.bbl" "main" 1665953985
-  "main.bcf" 1665953985 158180 8101b27b0671f3b48e85322b22fd84d1 "pdflatex"
+["biber main"] 1665953535 "main.bcf" "main.bbl" "main" 1666545423
+  "main.bcf" 1666545423 158180 8101b27b0671f3b48e85322b22fd84d1 "pdflatex"
   "references.bib" 1665346770 3358 4b0d863b4af185f048462c05357c80ff ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1665953984 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1665953985
+["pdflatex"] 1666545422 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1666545423
   "/etc/texmf/web2c/texmf.cnf" 1662742362 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1665953982 30187 4b40afeb5a3dd7ef2b387bcf81b25727 ""
+  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1666545418 35567 6e4efb922b3a01f7b66fdec4f1c79252 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/emprego.pdf" 1665339562 12805 4b68dfec679c848c08b871360fa21c20 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/ieer_black_women.pdf" 1665946347 13730 381784fc922ca4bd7cc54c04b659b4b8 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/participation.pdf" 1665339476 16242 8ee91c22e0f29b2f8413352b7b7fdbfc ""
@@ -19,7 +19,7 @@
   "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region.pdf" 1665339475 14562 2621bb8bd1cc5503d315ad455ea21fc7 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/wage_2002_region_women.pdf" 1665339475 14100 a3781f41f4bc8e35d9b239d8cc35d999 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/wage_gap.pdf" 1665946349 13426 a0ce6f6061a23d7c4410f2b039a55433 ""
-  "/home/dell/Documents/pacto/reports/black_women/tables/decis_rendimentos.tex" 1664718859 1266 90ec3d0b08005a3666ac6186dc568c61 ""
+  "/home/dell/Documents/pacto/reports/black_women/tables/decis_rendimentos.tex" 1666545418 934 20ac0e1180c669fb651e61de1ba98f41 ""
   "/home/dell/Documents/pacto/reports/black_women/tables/superior_setor_high.tex" 1665953865 2064 cbf8def0d0f97a34eae578810b0f5b7b ""
   "/home/dell/Documents/pacto/reports/black_women/tables/superior_setor_low.tex" 1665953544 2061 ce339463f84102cac234339e3097bb32 ""
   "/home/dell/Documents/pacto/reports/black_women/tables/tab_ieer_2020.tex" 1662929338 622 0a81af91ab81fa7a405a5fa634419c3d ""
@@ -187,11 +187,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662928644 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662928675 2801430 56a36fe41d3f0384a7b957e82b4c816f ""
-  "main.aux" 1665953985 8973 6ff2f5cc670273eabd7d4ec9ab36e924 "pdflatex"
+  "main.aux" 1666545423 8973 937314976e9054f68c237461bf9603af "pdflatex"
   "main.bbl" 1665953536 10323 94fdcb7ade25bd879d1a39177b0cf839 "biber main"
-  "main.out" 1665953985 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
-  "main.run.xml" 1665953985 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
-  "main.tex" 1665953982 30187 4b40afeb5a3dd7ef2b387bcf81b25727 ""
+  "main.out" 1666545423 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
+  "main.run.xml" 1666545423 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
+  "main.tex" 1666545418 35567 6e4efb922b3a01f7b66fdec4f1c79252 ""
   (generated)
   "main.aux"
   "main.bcf"
