@@ -19,6 +19,59 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
+    \entry{barbosacosta2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4a11ac5d1b3593339f17c7b85d31bd53}{%
+           family={Barbosa},
+           familyi={B\bibinitperiod},
+           given={Ana\bibnamedelimb Luiza\bibnamedelimb Neves\bibnamedelimb de\bibnamedelima Holanda},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=46c2f26b48409c0aa8e693d4431d764f}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Joana\bibnamedelimb Simões\bibnamedelimb de\bibnamedelima Melo},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto de Pesquisa Econômica Aplicada (Ipea)}%
+      }
+      \strng{namehash}{e3596595754c38461c26836e30f19ed9}
+      \strng{fullhash}{e3596595754c38461c26836e30f19ed9}
+      \strng{bibnamehash}{e3596595754c38461c26836e30f19ed9}
+      \strng{authorbibnamehash}{e3596595754c38461c26836e30f19ed9}
+      \strng{authornamehash}{e3596595754c38461c26836e30f19ed9}
+      \strng{authorfullhash}{e3596595754c38461c26836e30f19ed9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Oferta de creche e participação das mulheres no mercado de trabalho no Brasil}
+      \field{year}{2017}
+    \endentry
+    \entry{becker1957}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ddbce888dc6e767c124c5bff0dcb3f4c}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{ddbce888dc6e767c124c5bff0dcb3f4c}
+      \strng{fullhash}{ddbce888dc6e767c124c5bff0dcb3f4c}
+      \strng{bibnamehash}{ddbce888dc6e767c124c5bff0dcb3f4c}
+      \strng{authorbibnamehash}{ddbce888dc6e767c124c5bff0dcb3f4c}
+      \strng{authornamehash}{ddbce888dc6e767c124c5bff0dcb3f4c}
+      \strng{authorfullhash}{ddbce888dc6e767c124c5bff0dcb3f4c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Economics of Discrimination}
+      \field{year}{1957}
+    \endentry
     \entry{campante2004desigualdade}{article}{}
       \name{author}{3}{}{%
         {{hash=4c891860df9b81b588784352ed612ca0}{%
@@ -111,6 +164,35 @@
       \field{pages}{177\bibrangedash 222}
       \range{pages}{46}
     \endentry
+    \entry{machadoandpinho2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a6d1b92fa4cff4755865a4c86315798e}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ca38ae8648f0a47153dd047d4a935765}{%
+           family={Pinho\bibnamedelima Neto},
+           familyi={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Valdemar\bibnamedelimb Rodrigues\bibnamedelima de},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {undação Getulio Vargas (FGV)}%
+      }
+      \strng{namehash}{cbf59be0c747146446c97a8e3df24351}
+      \strng{fullhash}{cbf59be0c747146446c97a8e3df24351}
+      \strng{bibnamehash}{cbf59be0c747146446c97a8e3df24351}
+      \strng{authorbibnamehash}{cbf59be0c747146446c97a8e3df24351}
+      \strng{authornamehash}{cbf59be0c747146446c97a8e3df24351}
+      \strng{authorfullhash}{cbf59be0c747146446c97a8e3df24351}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The labor market consequences of maternity leave policies: evidence from Brazil}
+      \field{year}{2016}
+    \endentry
     \entry{marcondes2013dossie}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -181,6 +263,39 @@
       \field{labeltitlesource}{title}
       \field{title}{Dossiê mulheres negras: retrato das condições de vida das mulheres negras no Brasil}
       \field{year}{2013}
+    \endentry
+    \entry{maspallais2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=949b13e4b4f8dba38734d2702d90cd56}{%
+           family={Mas},
+           familyi={M\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a5827578f46c09747f511997b3d4a333}{%
+           family={Pallais},
+           familyi={P\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Economic Review}%
+      }
+      \strng{namehash}{ffde08f24220f419bebb040c1d8a9924}
+      \strng{fullhash}{ffde08f24220f419bebb040c1d8a9924}
+      \strng{bibnamehash}{ffde08f24220f419bebb040c1d8a9924}
+      \strng{authorbibnamehash}{ffde08f24220f419bebb040c1d8a9924}
+      \strng{authornamehash}{ffde08f24220f419bebb040c1d8a9924}
+      \strng{authorfullhash}{ffde08f24220f419bebb040c1d8a9924}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{title}{Valuing Alternative Work Arrangements}
+      \field{volume}{107}
+      \field{year}{2017}
+      \field{pages}{3722\bibrangedash 59}
+      \range{pages}{38}
     \endentry
     \entry{ransom2001one}{book}{}
       \name{author}{2}{}{%

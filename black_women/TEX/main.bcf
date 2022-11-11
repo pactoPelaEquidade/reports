@@ -3489,15 +3489,23 @@
     <bcf:citekey order="3">campante2004desigualdade</bcf:citekey>
     <bcf:citekey order="4">soares2000perfil</bcf:citekey>
     <bcf:citekey order="4">campante2004desigualdade</bcf:citekey>
-    <bcf:citekey order="5">ransom2001one</bcf:citekey>
-    <bcf:citekey order="6">carvalho2004fracasso</bcf:citekey>
-    <bcf:citekey order="7">marcondes2013dossie</bcf:citekey>
-    <bcf:citekey order="8">kaldor1961capital</bcf:citekey>
-    <bcf:citekey order="9">soares2000perfil</bcf:citekey>
-    <bcf:citekey order="10">campante2004desigualdade</bcf:citekey>
-    <bcf:citekey order="11">ransom2001one</bcf:citekey>
-    <bcf:citekey order="12">carvalho2004fracasso</bcf:citekey>
-    <bcf:citekey order="13">marcondes2013dossie</bcf:citekey>
+    <bcf:citekey order="5">maspallais2017</bcf:citekey>
+    <bcf:citekey order="6">becker1957</bcf:citekey>
+    <bcf:citekey order="7">machadoandpinho2016</bcf:citekey>
+    <bcf:citekey order="8">barbosacosta2017</bcf:citekey>
+    <bcf:citekey order="9">ransom2001one</bcf:citekey>
+    <bcf:citekey order="10">carvalho2004fracasso</bcf:citekey>
+    <bcf:citekey order="11">marcondes2013dossie</bcf:citekey>
+    <bcf:citekey order="12">kaldor1961capital</bcf:citekey>
+    <bcf:citekey order="13">soares2000perfil</bcf:citekey>
+    <bcf:citekey order="14">campante2004desigualdade</bcf:citekey>
+    <bcf:citekey order="15">maspallais2017</bcf:citekey>
+    <bcf:citekey order="16">becker1957</bcf:citekey>
+    <bcf:citekey order="17">machadoandpinho2016</bcf:citekey>
+    <bcf:citekey order="18">barbosacosta2017</bcf:citekey>
+    <bcf:citekey order="19">ransom2001one</bcf:citekey>
+    <bcf:citekey order="20">carvalho2004fracasso</bcf:citekey>
+    <bcf:citekey order="21">marcondes2013dossie</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">

@@ -1,16 +1,16 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[63] biber:340> INFO - === dom out 16, 2022, 17:52:16
-[76] Biber.pm:418> INFO - Reading 'main.bcf'
-[151] Biber.pm:972> INFO - Found 6 citekeys in bib section 0
-[161] Biber.pm:4383> INFO - Processing section 0
-[168] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
-[169] bibtex.pm:1713> INFO - LaTeX decoding ...
-[177] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[240] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[240] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'level = 4' with 'level = 2'
-[241] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[241] Biber.pm:4203> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'pt-PT'
-[241] Biber.pm:4209> INFO - No sort tailoring available for locale 'pt-PT'
-[246] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[249] bbl.pm:757> INFO - Output to main.bbl
+[57] biber:340> INFO - === sex nov 11, 2022, 15:07:18
+[67] Biber.pm:418> INFO - Reading 'main.bcf'
+[141] Biber.pm:972> INFO - Found 10 citekeys in bib section 0
+[152] Biber.pm:4383> INFO - Processing section 0
+[161] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
+[162] bibtex.pm:1713> INFO - LaTeX decoding ...
+[172] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[252] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[252] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[252] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'level = 4' with 'level = 2'
+[252] Biber.pm:4203> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'pt-PT'
+[252] Biber.pm:4209> INFO - No sort tailoring available for locale 'pt-PT'
+[261] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[265] bbl.pm:757> INFO - Output to main.bbl
