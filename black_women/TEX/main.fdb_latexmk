@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1665953535 "main.bcf" "main.bbl" "main" 1667587435
-  "main.bcf" 1667587435 158180 8101b27b0671f3b48e85322b22fd84d1 "pdflatex"
+["biber main"] 1665953535 "main.bcf" "main.bbl" "main" 1668189259
+  "main.bcf" 1668189259 158180 8101b27b0671f3b48e85322b22fd84d1 "pdflatex"
   "references.bib" 1665346770 3358 4b0d863b4af185f048462c05357c80ff ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1667587434 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1667587435
+["pdflatex"] 1668189258 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1668189259
   "/etc/texmf/web2c/texmf.cnf" 1662742362 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1667587392 39303 536193a669a26abfc8f9b7de9f3072d4 ""
+  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1668189165 39431 f56c333eec4db19ff2b21ecea9011263 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/emprego.pdf" 1665339562 12805 4b68dfec679c848c08b871360fa21c20 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/ieer_black_women.pdf" 1665946347 13730 381784fc922ca4bd7cc54c04b659b4b8 ""
   "/home/dell/Documents/pacto/reports/black_women/figures/participation.pdf" 1665339476 16242 8ee91c22e0f29b2f8413352b7b7fdbfc ""
@@ -187,11 +187,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662928644 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662928675 2801430 56a36fe41d3f0384a7b957e82b4c816f ""
-  "main.aux" 1667587435 8977 a35c5cd01707e216226b66680444c59d "pdflatex"
+  "agradecimentos.tex" 1668189258 1223 2f8e47a8118870d50679a4af656b72e4 ""
+  "main.aux" 1668189259 8982 4e60522ab2ecded7124668b8334afd2d "pdflatex"
   "main.bbl" 1665953536 10323 94fdcb7ade25bd879d1a39177b0cf839 "biber main"
-  "main.out" 1667587435 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
-  "main.run.xml" 1667587435 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
-  "main.tex" 1667587392 39303 536193a669a26abfc8f9b7de9f3072d4 ""
+  "main.out" 1668189259 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
+  "main.run.xml" 1668189259 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
+  "main.tex" 1668189165 39431 f56c333eec4db19ff2b21ecea9011263 ""
   (generated)
   "main.aux"
   "main.bcf"
