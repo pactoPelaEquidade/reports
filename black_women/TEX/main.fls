@@ -1091,8 +1091,6 @@ INPUT ./main.bbl
 INPUT main.bbl
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
@@ -1185,6 +1183,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/palatino/pplr9o.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb9o.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
@@ -1312,7 +1311,6 @@ OUTPUT main.run.xml
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
