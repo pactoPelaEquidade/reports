@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1669069042 "main.bcf" "main.bbl" "main" 1669069050
-  "main.bcf" 1669069050 158642 4ebb8c01a133e435732ae66667e3b224 "pdflatex"
+["biber main"] 1669142142 "main.bcf" "main.bbl" "main" 1669144477
+  "main.bcf" 1669144477 158642 4ebb8c01a133e435732ae66667e3b224 "pdflatex"
   "references.bib" 1668189463 4294 4de929dd2083531e2671e16ab6c4462d ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1669069048 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1669069050
+["pdflatex"] 1669144475 "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" "main.pdf" "main" 1669144477
   "../figures/emprego.pdf" 1665339562 12805 4b68dfec679c848c08b871360fa21c20 ""
   "../figures/ieer_black_women.pdf" 1665946347 13730 381784fc922ca4bd7cc54c04b659b4b8 ""
   "../figures/participation.pdf" 1665339476 16242 8ee91c22e0f29b2f8413352b7b7fdbfc ""
@@ -22,7 +22,7 @@
   "../tables/superior_setor_low.tex" 1665953544 2061 ce339463f84102cac234339e3097bb32 ""
   "../tables/tab_ieer_2020.tex" 1662929338 622 0a81af91ab81fa7a405a5fa634419c3d ""
   "/etc/texmf/web2c/texmf.cnf" 1662742362 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1669069039 39735 6377d89875d1a1c0d4379c598fd2598c ""
+  "/home/dell/Documents/pacto/reports/black_women/TEX/main.tex" 1669144474 39737 5e993a662b64081ba9d76c5aa105ab73 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -185,12 +185,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662928644 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662928675 2801430 56a36fe41d3f0384a7b957e82b4c816f ""
-  "agradecimentos.tex" 1668197601 1298 093c0f3db16faa710be865bf806ade5a ""
-  "main.aux" 1669069050 10079 b466a6e033ed01bd360e966891a2b75c "pdflatex"
-  "main.bbl" 1669069044 15441 1a72662cb36c39820ec9921d8b071f72 "biber main"
-  "main.out" 1669069050 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
-  "main.run.xml" 1669069050 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
-  "main.tex" 1669069039 39735 6377d89875d1a1c0d4379c598fd2598c ""
+  "agradecimentos.tex" 1669142309 2826 d7b5294d2391db2f800dd15f34d7c6e8 ""
+  "main.aux" 1669144477 10071 ae7ce523aed785792baae720be75842d "pdflatex"
+  "main.bbl" 1669142143 15441 1a72662cb36c39820ec9921d8b071f72 "biber main"
+  "main.out" 1669144477 785 aa182432a32b59e1c4643a5f6e01168b "pdflatex"
+  "main.run.xml" 1669144477 2288 3f03e830a65afbd7df9744fe66f275d1 "pdflatex"
+  "main.tex" 1669144474 39737 5e993a662b64081ba9d76c5aa105ab73 ""
   (generated)
   "main.aux"
   "main.bcf"
