@@ -1089,6 +1089,11 @@ INPUT main.bbl
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
+INPUT /home/dell/Documents/pacto/reports/black_women/figures/logo_pacto.png
+INPUT /home/dell/Documents/pacto/reports/black_women/figures/logo_pacto.png
+INPUT /home/dell/Documents/pacto/reports/black_women/figures/logo_pacto.png
+INPUT /home/dell/Documents/pacto/reports/black_women/figures/logo_pacto.png
+INPUT /home/dell/Documents/pacto/reports/black_women/figures/logo_pacto.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
